@@ -1,0 +1,9 @@
+name = "MTJ"
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+QuadGK = "1fd47b50-473d-5c70-9696-d6a8a88f75e5"
+Random = "9a3f8284-686f-5f34-9a1a-67840de85a0b"
+Statistics = "10745b16-7908-11e8-9d13-236b75f533b7"
